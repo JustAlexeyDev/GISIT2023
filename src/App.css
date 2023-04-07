@@ -1,0 +1,29 @@
+* {
+    transition: all;
+    transition: 0.5s;
+    font-family: 'Open Sans', sans-serif;
+    text-decoration: none;
+    outline: none;
+    -webkit-tap-highlight-color: transparent;
+}
+
+button {
+    background-color: #4770D8;
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    outline: none;
+
+}
+
+button:hover {
+    background-color: #799CF5;
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    outline: none;
+}
